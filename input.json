@@ -1,0 +1,152 @@
+[
+   {
+       "_id": "5fd69005d1e65ef5bee9c4ac",
+       "OgledID": "1",
+       "Kraj": [
+           {
+               "KrajID": "1",
+               "Naziv": "Novo mesto",
+               "PostnaStevilka": "8000",
+               "TelStevilka": "073322100"
+           }
+       ],
+       "Prireditev": [
+           {
+               "PrireditevID": "1",
+               "Naziv": "Karneval",
+               "Datum": "2020-12-12 01:09:00"
+           }
+       ],
+       "Znamenitost": [
+           {
+               "ZnamenitostID": "1",
+               "Naziv": "Fontana vina"
+           }
+       ]
+   },
+   {
+       "_id": "5fd69005d1e65ef5bee9c4ad",
+       "OgledID": "2",
+       "Kraj": [
+           {
+               "KrajID": "2",
+               "Naziv": "Maribor",
+               "PostnaStevilka": "2000",
+               "TelStevilka": "0801302"
+           }
+       ],
+       "Prireditev": [
+           {
+               "PrireditevID": "2",
+               "Naziv": "Sejem rož",
+               "Datum": "2020-12-13 01:09:00"
+           }
+       ],
+       "Znamenitost": [
+           {
+               "ZnamenitostID": "2",
+               "Naziv": "Fontana piva"
+           }
+       ]
+   },
+   {
+       "_id": "5fd69005d1e65ef5bee9c4ae",
+       "OgledID": "3",
+       "Kraj": [
+           {
+               "KrajID": "2",
+               "Naziv": "Maribor",
+               "PostnaStevilka": "2000",
+               "TelStevilka": "0801302"
+           }
+       ],
+       "Prireditev": [
+           {
+               "PrireditevID": "1",
+               "Naziv": "Karneval",
+               "Datum": "2020-12-12 01:09:00"
+           }
+       ],
+       "Znamenitost": [
+           {
+               "ZnamenitostID": "3",
+               "Naziv": "Lent"
+           }
+       ]
+   },
+   {
+       "_id": "5fd69005d1e65ef5bee9c4af",
+       "OgledID": "4",
+       "Kraj": [
+           {
+               "KrajID": "2",
+               "Naziv": "Maribor",
+               "PostnaStevilka": "2000",
+               "TelStevilka": "0801302"
+           }
+       ],
+       "Prireditev": [
+           {
+               "PrireditevID": "2",
+               "Naziv": "Sejem rož",
+               "Datum": "2020-12-13 01:09:00"
+           }
+       ],
+       "Znamenitost": [
+           {
+               "ZnamenitostID": "2",
+               "Naziv": "Fontana piva"
+           }
+       ]
+   },
+   {
+       "_id": "5fd69005d1e65ef5bee9c4b0",
+       "OgledID": "5",
+       "Kraj": [
+           {
+               "KrajID": "2",
+               "Naziv": "Maribor",
+               "PostnaStevilka": "2000",
+               "TelStevilka": "0801302"
+           }
+       ],
+       "Prireditev": [
+           {
+               "PrireditevID": "2",
+               "Naziv": "Sejem rož",
+               "Datum": "2020-12-13 01:09:00"
+           }
+       ],
+       "Znamenitost": [
+           {
+               "ZnamenitostID": "2",
+               "Naziv": "Fontana piva"
+           }
+       ]
+   },
+   {
+       "_id": "5fd69196548285110f40cf61",
+       "OgledID": "6",
+       "Kraj": [
+           {
+               "KrajID": "1",
+               "Naziv": "Novo mesto",
+               "PostnaStevilka": "8000",
+               "TelStevilka": "073322100"
+           }
+       ],
+       "Prireditev": [
+           {
+               "PrireditevID": "2",
+               "Naziv": "Sejem rož",
+               "Datum": "2020-12-13 01:09:00"
+           }
+       ],
+       "Znamenitost": [
+           {
+               "ZnamenitostID": "1",
+               "Naziv": "Fontana vina"
+           }
+       ]
+   }
+]
